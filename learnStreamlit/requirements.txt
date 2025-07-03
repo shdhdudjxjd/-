@@ -1,11 +1,8 @@
 numba==0.59.0
 pandas==2.3.0
-plotly==5.9.0
 plotly==6.1.2
-Requests==2.32.4
-streamlit==1.30.0
-streamlit==1.33.0
+requests==2.32.4
 streamlit==1.46.0
-streamlit_antd_components==0.3.2
-streamlit_card==1.0.2
-streamlit_extras==0.7.5
+streamlit-antd-components==0.3.2
+streamlit-card==1.0.2
+streamlit-extras==0.7.5

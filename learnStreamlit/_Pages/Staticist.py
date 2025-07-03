@@ -1,6 +1,5 @@
 import streamlit as st
 import plotly.express as px
-from numba.cuda import event
 from streamlit_extras.metric_cards import style_metric_cards
 import plotly.graph_objects as go
 from st_aggrid import AgGrid
